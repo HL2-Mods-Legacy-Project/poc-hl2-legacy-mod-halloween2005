@@ -10,11 +10,11 @@ Legacy HL2 mod proof of concept (POC) - only for development purposes.
 
 ## Mod Installation
 
-See [mod installation](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/mod-repositories/mod-installation.md).
+See [mod installation](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/docs/mod-repositories/mod-installation.md).
 
 ## Development
 
-See [development](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/mod-repositories/development.md).
+See [development](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/docs/mod-repositories/development.md).
 
 ## Contributing
 
