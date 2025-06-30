@@ -1,4 +1,4 @@
-& "$PSScriptRoot\..\mod-installer\build_all.ps1" `
+& "$PSScriptRoot\..\gitmodules\mod-installer\build_all.ps1" `
   -Version "2.0.0" `
   -OutputFilePrefix "Halloween_2005" `
   -ModName "Halloween HL2: Pumpkin Night (2005)" `
