@@ -1,7 +1,3 @@
-[submodule "mod-installer"]
-	path = mod-installer
-	url = https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-installer.git
-	branch = v2.x
 [submodule "utilities"]
 	path = utilities
 	url = https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-utilities.git
