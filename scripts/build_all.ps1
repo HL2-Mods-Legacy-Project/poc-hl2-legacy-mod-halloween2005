@@ -3,7 +3,8 @@
   -PreReleaseVersion "beta.1" `
   -OutputFilePrefix "Halloween_2005" `
   -ModName "Halloween HL2: Pumpkin Night (2005)" `
-  -ModFilesPath "$PSScriptRoot\..\game\Halloween" `
+  -ModFolder "Halloween" `
+  -ModFilesPath "$PSScriptRoot\..\game" `
   -ModBaseFilesUrl "https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-registry/releases/download/halloween-2005/Halloween-Original.zip" `
-  -ModBaseFilesUrlHash "087fc90281b3a9dc034769a8097a608c6bfd604c3d490ab69c69c8dbb3ae700f" `
+  -ModBaseFilesUrlHash "cd6d7e9bcd3c48e508622ccc6c6cd8ea1eaa0a3d1bbbe43152eceaefac0752a0" `
   -PublishPath "$PSScriptRoot\..\artifacts\publish"
